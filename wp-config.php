@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'wp-miblog-ti' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '27f3953d92ee388d16c6cf9c22b9cab476e86cc3ab398f06' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
