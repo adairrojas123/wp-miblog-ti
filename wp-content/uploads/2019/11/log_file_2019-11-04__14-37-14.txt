@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Intrinsic Light Version were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp-miblog-ti
+Data file = C:\xampp\htdocs\wp-miblog-ti/wp-content/uploads/2019/11/demo-content-import-file_2019-11-04__14-37-14.xml
+Widget file = C:\xampp\htdocs\wp-miblog-ti/wp-content/uploads/2019/11/demo-widgets-import-file_2019-11-04__14-37-14.json
+Customizer file = C:\xampp\htdocs\wp-miblog-ti/wp-content/uploads/2019/11/demo-customizer-import-file_2019-11-04__14-37-14.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "step-bg" (Media)
+[ERROR] Failed to import "client-1" (Media)
+[ERROR] Failed to import "contact-bg" (Media)
+
+
+---Importing widgets---
+Sidebar Blog : 
+
+Image - Ads Widget - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Image - Ads Widgets - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
